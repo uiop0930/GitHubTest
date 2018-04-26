@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         tv= findViewById(R.id.tv);
         tv.setText("Hello world!");
-        tv.setTextColor("#666666");
+        tv.setTextColor("0x666666");
 
     }
 }
